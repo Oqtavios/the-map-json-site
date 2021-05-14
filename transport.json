@@ -1,0 +1,1370 @@
+{
+  "transport": {
+    "SPB": {
+      "tram": [
+        {
+          "id": 0,
+          "transportType": "tram",
+          "routeNumber": "A",
+          "startTime": "6:11",
+          "endTime": "21:24",
+          "startStation": "Оккервиль река",
+          "endStation": "Коллонтай ул."
+        },
+        {
+          "id": 1,
+          "transportType": "tram",
+          "routeNumber": "3",
+          "startTime": "6:51",
+          "endTime": "23:23",
+          "startStation": "Репина пл.",
+          "endStation": "Ленина пл."
+        },
+        {
+          "id": 2,
+          "transportType": "tram",
+          "routeNumber": "6",
+          "startTime": "5:31",
+          "endTime": "23:38",
+          "startStation": "Кораблестроителей ул.",
+          "endStation": "Ленина пл."
+        },
+        {
+          "id": 3,
+          "transportType": "tram",
+          "routeNumber": "7",
+          "startTime": "5:46",
+          "endTime": "23:16",
+          "startStation": "Солидарности пр.",
+          "endStation": "М.Охта"
+        },
+        {
+          "id": 4,
+          "transportType": "tram",
+          "routeNumber": "9",
+          "startTime": "5:33",
+          "endTime": "0:12",
+          "startStation": "Мечникова пр.",
+          "endStation": "Удельная ст.м."
+        },
+        {
+          "id": 5,
+          "transportType": "tram",
+          "routeNumber": "8",
+          "startTime": "5:46",
+          "endTime": "23:16",
+          "startStation": "Метро Ладожская",
+          "endStation": "проспект Наставников"
+        },
+        {
+          "id": 6,
+          "transportType": "tram",
+          "routeNumber": "10",
+          "startTime": "6:02",
+          "endTime": "23:59",
+          "startStation": "Солидарности пр.",
+          "endStation": "Передовиков"
+        },
+        {
+          "id": 7,
+          "transportType": "tram",
+          "routeNumber": "16",
+          "startTime": "5:28",
+          "endTime": "23:26",
+          "startStation": "Карбюраторный завод",
+          "endStation": "Стачек пл."
+        },
+        {
+          "id": 8,
+          "transportType": "tram",
+          "routeNumber": "18",
+          "startTime": "5:22",
+          "endTime": "0:34",
+          "startStation": "Шаврова ул.",
+          "endStation": "Старая деревня ст.м."
+        },
+        {
+          "id": 9,
+          "transportType": "tram",
+          "routeNumber": "19",
+          "startTime": "6:17",
+          "endTime": "0:25",
+          "startStation": "Лахтинский разлив",
+          "endStation": "ж/д Старая деревня"
+        },
+        {
+          "id": 10,
+          "transportType": "tram",
+          "routeNumber": "20",
+          "startTime": "5:37",
+          "endTime": "23:27",
+          "startStation": "Культуры пр.",
+          "endStation": "Ленина пл."
+        },
+        {
+          "id": 11,
+          "transportType": "tram",
+          "routeNumber": "21",
+          "startTime": "5:41",
+          "endTime": "23:30",
+          "startStation": "Приморский пр.",
+          "endStation": "Придорожная аллея"
+        },
+        {
+          "id": 12,
+          "transportType": "tram",
+          "routeNumber": "23",
+          "startTime": "5:53",
+          "endTime": "23:13",
+          "startStation": "Солидарности пр.",
+          "endStation": "Боткинская ул. к/ст"
+        },
+        {
+          "id": 13,
+          "transportType": "tram",
+          "routeNumber": "24",
+          "startTime": "5:03",
+          "endTime": "23:07",
+          "startStation": "Рыбацкое",
+          "endStation": "Перекупной пер."
+        },
+        {
+          "id": 14,
+          "transportType": "tram",
+          "routeNumber": "25",
+          "startTime": "5:33",
+          "endTime": "23:30",
+          "startStation": "Купчино ст.м.",
+          "endStation": "Марата ул."
+        },
+        {
+          "id": 15,
+          "transportType": "tram",
+          "routeNumber": "27",
+          "startTime": "5:17",
+          "endTime": "23:31",
+          "startStation": "Рыбацкое",
+          "endStation": "Оккервиль река"
+        },
+        {
+          "id": 16,
+          "transportType": "tram",
+          "routeNumber": "29",
+          "startTime": "6:08",
+          "endTime": "23:55",
+          "startStation": "Мясокомбинат",
+          "endStation": "1 парк к/ст"
+        },
+        {
+          "id": 17,
+          "transportType": "tram",
+          "routeNumber": "36",
+          "startTime": "5:19",
+          "endTime": "23:31",
+          "startStation": "Стрельна",
+          "endStation": "Оборонная ул."
+        },
+        {
+          "id": 18,
+          "transportType": "tram",
+          "routeNumber": "38",
+          "startTime": "4:59",
+          "endTime": "0:44",
+          "startStation": "Мечникова пр.",
+          "endStation": "Кушелевка ст."
+        },
+        {
+          "id": 19,
+          "transportType": "tram",
+          "routeNumber": "39",
+          "startTime": "5:45",
+          "endTime": "23:28",
+          "startStation": "Володарского парк к/ст.",
+          "endStation": "Новочеркасская ст. м."
+        },
+        {
+          "id": 20,
+          "transportType": "tram",
+          "routeNumber": "40",
+          "startTime": "5:34",
+          "endTime": "22:51",
+          "startStation": "Тихорецкий пр.",
+          "endStation": "Кораблестроителей ул."
+        },
+        {
+          "id": 21,
+          "transportType": "tram",
+          "routeNumber": "41",
+          "startTime": "5:55",
+          "endTime": "23:57",
+          "startStation": "Северная Верфь з-д",
+          "endStation": "Тургенева пл."
+        },
+        {
+          "id": 22,
+          "transportType": "tram",
+          "routeNumber": "43",
+          "startTime": "5:35",
+          "endTime": "0:35",
+          "startStation": "Купчино ст.м.",
+          "endStation": "Московские ворота"
+        },
+        {
+          "id": 23,
+          "transportType": "tram",
+          "routeNumber": "45",
+          "startTime": "5:32",
+          "endTime": "23:49",
+          "startStation": "Купчино ст.м.",
+          "endStation": "Ю.Гагарина пр."
+        },
+        {
+          "id": 24,
+          "transportType": "tram",
+          "routeNumber": "47",
+          "startTime": "5:34",
+          "endTime": "0:07",
+          "startStation": "Шаврова ул.",
+          "endStation": "Удельный парк"
+        },
+        {
+          "id": 25,
+          "transportType": "tram",
+          "routeNumber": "48",
+          "startTime": "5:35",
+          "endTime": "23:53",
+          "startStation": "Лахтинский разлив",
+          "endStation": "Кушелевка ст."
+        },
+        {
+          "id": 26,
+          "transportType": "tram",
+          "routeNumber": "49",
+          "startTime": "5:27",
+          "endTime": "23:51",
+          "startStation": "М.Балканская ул.",
+          "endStation": "Марата ул."
+        },
+        {
+          "id": 27,
+          "transportType": "tram",
+          "routeNumber": "51",
+          "startTime": "5:17",
+          "endTime": "0:00",
+          "startStation": "Суздальский пр.",
+          "endStation": "Мечникова пр."
+        },
+        {
+          "id": 28,
+          "transportType": "tram",
+          "routeNumber": "52",
+          "startTime": "5:24",
+          "endTime": "23:48",
+          "startStation": "Сосновая Поляна",
+          "endStation": "Северная Верфь з-д"
+        },
+        {
+          "id": 29,
+          "transportType": "tram",
+          "routeNumber": "55",
+          "startTime": "5:19",
+          "endTime": "23:33",
+          "startStation": "Шаврова ул.",
+          "endStation": "Ручьи ст."
+        },
+        {
+          "id": 30,
+          "transportType": "tram",
+          "routeNumber": "57",
+          "startTime": "8:59",
+          "endTime": "17:31",
+          "startStation": "Тихорецкий пр.",
+          "endStation": "Луначарского"
+        },
+        {
+          "id": 31,
+          "transportType": "tram",
+          "routeNumber": "58",
+          "startTime": "5:58",
+          "endTime": "22:44",
+          "startStation": "Ж.Егоровой ул.",
+          "endStation": "Культуры пр."
+        },
+        {
+          "id": 32,
+          "transportType": "tram",
+          "routeNumber": "59",
+          "startTime": "5:05",
+          "endTime": "23:20",
+          "startStation": "Метро Ладожская",
+          "endStation": "ул. Потапова (трамвайное депо)"
+        },
+        {
+          "id": 33,
+          "transportType": "tram",
+          "routeNumber": "60",
+          "startTime": "5:08",
+          "endTime": "23:38",
+          "startStation": "ЛЭМЗ",
+          "endStation": "Северная Верфь з-д"
+        },
+        {
+          "id": 34,
+          "transportType": "tram",
+          "routeNumber": "61",
+          "startTime": "5:05",
+          "endTime": "23:20",
+          "startStation": "Суздальский пр.",
+          "endStation": "Выборгская ст.м."
+        },
+        {
+          "id": 35,
+          "transportType": "tram",
+          "routeNumber": "62",
+          "startTime": "5:25",
+          "endTime": "0:11",
+          "startStation": "М.Балканская ул.",
+          "endStation": "Купчино ст.м."
+        },
+        {
+          "id": 36,
+          "transportType": "tram",
+          "routeNumber": "63",
+          "startTime": "5:05",
+          "endTime": "23:20",
+          "startStation": "Метро Ладожская",
+          "endStation": "ул. Передовиков (Ириновский проспект)"
+        },
+        {
+          "id": 37,
+          "transportType": "tram",
+          "routeNumber": "64",
+          "startTime": "5:05",
+          "endTime": "23:20",
+          "startStation": "Метро Ладожская",
+          "endStation": "Ржевка"
+        },
+        {
+          "id": 38,
+          "transportType": "tram",
+          "routeNumber": "65",
+          "startTime": "6:03",
+          "endTime": "23:36",
+          "startStation": "Оккервиль река",
+          "endStation": "Невский з-д"
+        },
+        {
+          "id": 39,
+          "transportType": "tram",
+          "routeNumber": "100",
+          "startTime": "5:28",
+          "endTime": "0:13",
+          "startStation": "Ручьи ст.",
+          "endStation": "Придорожная аллея"
+        }
+      ],
+      "trolley": [
+        {
+          "id": 0,
+          "transportType": "trolley",
+          "routeNumber": "1",
+          "startTime": "5:21",
+          "endTime": "23:32",
+          "startStation": "Тухачевского ул.",
+          "endStation": "Ординарная ул."
+        },
+        {
+          "id": 1,
+          "transportType": "trolley",
+          "routeNumber": "2",
+          "startTime": "5:29",
+          "endTime": "0:18",
+          "startStation": "Шаврова ул.",
+          "endStation": "Глухарская ул."
+        },
+        {
+          "id": 2,
+          "transportType": "trolley",
+          "routeNumber": "3",
+          "startTime": "5:38",
+          "endTime": "23:39",
+          "startStation": "Тухачевского ул.",
+          "endStation": "Балтийский вокзал"
+        },
+        {
+          "id": 3,
+          "transportType": "trolley",
+          "routeNumber": "4",
+          "startTime": "5:50",
+          "endTime": "23:42",
+          "startStation": "Придорожная аллея.",
+          "endStation": "Мужества пл."
+        },
+        {
+          "id": 4,
+          "transportType": "trolley",
+          "routeNumber": "5",
+          "startTime": "5:35",
+          "endTime": "0:40",
+          "startStation": "Конногвардейский бул.",
+          "endStation": "Тульская ул."
+        },
+        {
+          "id": 5,
+          "transportType": "trolley",
+          "routeNumber": "6",
+          "startTime": "5:20",
+          "endTime": "23:50",
+          "startStation": "Светлановский пр.",
+          "endStation": "Черная речка ст.м."
+        },
+        {
+          "id": 6,
+          "transportType": "trolley",
+          "routeNumber": "7",
+          "startTime": "5:25",
+          "endTime": "23:30",
+          "startStation": "Таллинская ул.",
+          "endStation": "Петровская пл."
+        },
+        {
+          "id": 7,
+          "transportType": "trolley",
+          "routeNumber": "8",
+          "startTime": "5:37",
+          "endTime": "23:56",
+          "startStation": "Парк 2",
+          "endStation": "Балтийский вокзал"
+        },
+        {
+          "id": 8,
+          "transportType": "trolley",
+          "routeNumber": "9",
+          "startTime": "6:16",
+          "endTime": "22:38",
+          "startStation": "Кораблестроителей ул.",
+          "endStation": "Ординарная ул."
+        },
+        {
+          "id": 9,
+          "transportType": "trolley",
+          "routeNumber": "10",
+          "startTime": "5:51",
+          "endTime": "23:36",
+          "startStation": "Кораблестроителей ул.",
+          "endStation": "Новгородская ул."
+        },
+        {
+          "id": 10,
+          "transportType": "trolley",
+          "routeNumber": "11",
+          "startTime": "6:03",
+          "endTime": "0:03",
+          "startStation": "Кораблестроителей ул.",
+          "endStation": "Тульская ул."
+        },
+        {
+          "id": 11,
+          "transportType": "trolley",
+          "routeNumber": "13",
+          "startTime": "5:40",
+          "endTime": "0:02",
+          "startStation": "Придорожная аллея.",
+          "endStation": "Светлановский пр."
+        },
+        {
+          "id": 12,
+          "transportType": "trolley",
+          "routeNumber": "14",
+          "startTime": "6:07",
+          "endTime": "23:17",
+          "startStation": "Оккервиль р.",
+          "endStation": "пл.Александра Невского"
+        },
+        {
+          "id": 13,
+          "transportType": "trolley",
+          "routeNumber": "15",
+          "startTime": "5:30",
+          "endTime": "23:38",
+          "startStation": "Сызранская ул.",
+          "endStation": "Тульская ул."
+        },
+        {
+          "id": 14,
+          "transportType": "trolley",
+          "routeNumber": "16",
+          "startTime": "5:37",
+          "endTime": "0:06",
+          "startStation": "Ручьи ст.",
+          "endStation": "Бехтерева пл."
+        },
+        {
+          "id": 15,
+          "transportType": "trolley",
+          "routeNumber": "17",
+          "startTime": "6:08",
+          "endTime": "23:30",
+          "startStation": "Казанский собор",
+          "endStation": "Костюшко ул."
+        },
+        {
+          "id": 16,
+          "transportType": "trolley",
+          "routeNumber": "18",
+          "startTime": "5:30",
+          "endTime": "23:55",
+          "startStation": "Ручьи ст.",
+          "endStation": "Климова пл."
+        },
+        {
+          "id": 17,
+          "transportType": "trolley",
+          "routeNumber": "20",
+          "startTime": "5:15",
+          "endTime": "23:54",
+          "startStation": "Авангардная ул.",
+          "endStation": "Стачек пл."
+        },
+        {
+          "id": 18,
+          "transportType": "trolley",
+          "routeNumber": "21",
+          "startTime": "5:59",
+          "endTime": "23:23",
+          "startStation": "Ж.Егоровой ул.",
+          "endStation": "Мужества пл."
+        },
+        {
+          "id": 19,
+          "transportType": "trolley",
+          "routeNumber": "22",
+          "startTime": "5:20",
+          "endTime": "23:44",
+          "startStation": "Хасанская ул.",
+          "endStation": "Труда пл."
+        },
+        {
+          "id": 20,
+          "transportType": "trolley",
+          "routeNumber": "23",
+          "startTime": "5:30",
+          "endTime": "0:07",
+          "startStation": "Шаврова ул.",
+          "endStation": "Шуваловский пр"
+        },
+        {
+          "id": 21,
+          "transportType": "trolley",
+          "routeNumber": "24",
+          "startTime": "5:42",
+          "endTime": "22:49",
+          "startStation": "Звездная ул.",
+          "endStation": "Московские ворота"
+        },
+        {
+          "id": 22,
+          "transportType": "trolley",
+          "routeNumber": "25",
+          "startTime": "6:03",
+          "endTime": "0:56",
+          "startStation": "Старая деревня",
+          "endStation": "Генерала Хрулева ул."
+        },
+        {
+          "id": 23,
+          "transportType": "trolley",
+          "routeNumber": "26",
+          "startTime": "5:53",
+          "endTime": "23:22",
+          "startStation": "Сортировочная ст.",
+          "endStation": "Московские ворота"
+        },
+        {
+          "id": 24,
+          "transportType": "trolley",
+          "routeNumber": "27",
+          "startTime": "6:28",
+          "endTime": "23:38",
+          "startStation": "Оккервиль р.",
+          "endStation": "Конституции пл."
+        },
+        {
+          "id": 25,
+          "transportType": "trolley",
+          "routeNumber": "28",
+          "startTime": "6:20",
+          "endTime": "22:02",
+          "startStation": "Солидарности пр.",
+          "endStation": "Ломоносовская ст.м"
+        },
+        {
+          "id": 26,
+          "transportType": "trolley",
+          "routeNumber": "29",
+          "startTime": "5:26",
+          "endTime": "0:06",
+          "startStation": "Сортировочная ст.",
+          "endStation": "С.Корзуна ул."
+        },
+        {
+          "id": 27,
+          "transportType": "trolley",
+          "routeNumber": "31",
+          "startTime": "5:15",
+          "endTime": "23:51",
+          "startStation": "Северный пр.",
+          "endStation": "Добролюбова пр."
+        },
+        {
+          "id": 28,
+          "transportType": "trolley",
+          "routeNumber": "32",
+          "startTime": "4:56",
+          "endTime": "0:18",
+          "startStation": "Парк 1КС",
+          "endStation": "Балтийский бульвар"
+        },
+        {
+          "id": 29,
+          "transportType": "trolley",
+          "routeNumber": "33",
+          "startTime": "6:05",
+          "endTime": "22:04",
+          "startStation": "Солидарности пр.",
+          "endStation": "Суворовский проспект"
+        },
+        {
+          "id": 30,
+          "transportType": "trolley",
+          "routeNumber": "34",
+          "startTime": "5:45",
+          "endTime": "22:14",
+          "startStation": "Тихорецкий пр.",
+          "endStation": "Петроградская ст.м."
+        },
+        {
+          "id": 31,
+          "transportType": "trolley",
+          "routeNumber": "35",
+          "startTime": "6:09",
+          "endTime": "0:07",
+          "startStation": "Сортировочная ст.",
+          "endStation": "Героев пр."
+        },
+        {
+          "id": 32,
+          "transportType": "trolley",
+          "routeNumber": "36",
+          "startTime": "7:19",
+          "endTime": "17:35",
+          "startStation": "Сортировочная ст.",
+          "endStation": "Электросила ст.м."
+        },
+        {
+          "id": 33,
+          "transportType": "trolley",
+          "routeNumber": "37",
+          "startTime": "5:31",
+          "endTime": "0:58",
+          "startStation": "Пионерстроя ул.",
+          "endStation": "Ветеранов пр."
+        },
+        {
+          "id": 34,
+          "transportType": "trolley",
+          "routeNumber": "38",
+          "startTime": "5:17",
+          "endTime": "23:46",
+          "startStation": "Светлановский пр.",
+          "endStation": "пл.Ленина"
+        },
+        {
+          "id": 35,
+          "transportType": "trolley",
+          "routeNumber": "39",
+          "startTime": "5:31",
+          "endTime": "0:14",
+          "startStation": "Купчино ст.м.",
+          "endStation": "Электросила ст.м."
+        },
+        {
+          "id": 36,
+          "transportType": "trolley",
+          "routeNumber": "40",
+          "startTime": "5:45",
+          "endTime": "0:09",
+          "startStation": "Светлановский пр.",
+          "endStation": "Старая деревня"
+        },
+        {
+          "id": 37,
+          "transportType": "trolley",
+          "routeNumber": "41",
+          "startTime": "6:15",
+          "endTime": "23:58",
+          "startStation": "В.Алексеева ул.",
+          "endStation": "ул. Адмирала Черокова"
+        },
+        {
+          "id": 38,
+          "transportType": "trolley",
+          "routeNumber": "43",
+          "startTime": "5:33",
+          "endTime": "22:42",
+          "startStation": "Оккервиль р.",
+          "endStation": "пл.Ленина"
+        },
+        {
+          "id": 39,
+          "transportType": "trolley",
+          "routeNumber": "44",
+          "startTime": "5:29",
+          "endTime": "0:00",
+          "startStation": "Авангардная ул.",
+          "endStation": "Московские ворота"
+        },
+        {
+          "id": 40,
+          "transportType": "trolley",
+          "routeNumber": "45",
+          "startTime": "5:34",
+          "endTime": "0:17",
+          "startStation": "Звездная ул.",
+          "endStation": "Героев пр."
+        },
+        {
+          "id": 41,
+          "transportType": "trolley",
+          "routeNumber": "46",
+          "startTime": "4:30",
+          "endTime": "23:51",
+          "startStation": "Парк 1КС",
+          "endStation": "ж.-д.пл.Сергиево"
+        },
+        {
+          "id": 42,
+          "transportType": "trolley",
+          "routeNumber": "47",
+          "startTime": "5:56",
+          "endTime": "0:26",
+          "startStation": "М.Балканская ул.",
+          "endStation": "Московская пл."
+        },
+        {
+          "id": 43,
+          "transportType": "trolley",
+          "routeNumber": "48",
+          "startTime": "6:13",
+          "endTime": "23:42",
+          "startStation": "В.Алексеева ул.",
+          "endStation": "Героев пр."
+        },
+        {
+          "id": 44,
+          "transportType": "trolley",
+          "routeNumber": "50",
+          "startTime": "6:00",
+          "endTime": "0:00",
+          "startStation": "Тихорецкий пр.",
+          "endStation": "Шаврова ул."
+        }
+      ],
+      "bus": [
+        {}
+      ],
+      "metro": [
+        {
+          "id": 0,
+          "transportType": "metro",
+          "routeNumber": "1",
+          "startTime": "5:38",
+          "endTime": "0:00",
+          "Station": "Проспект Ветеранов"
+        },
+        {
+          "id": 1,
+          "transportType": "metro",
+          "routeNumber": "1",
+          "startTime": "5:40",
+          "endTime": "0:45",
+          "Station": "Ленинский проспект"
+        },
+        {
+          "id": 2,
+          "transportType": "metro",
+          "routeNumber": "1",
+          "startTime": "5:30",
+          "endTime": "0:42",
+          "Station": "Автово"
+        },
+        {
+          "id": 3,
+          "transportType": "metro",
+          "routeNumber": "1",
+          "startTime": "5:30",
+          "endTime": "0:40",
+          "Station": "Кировский завод"
+        },
+        {
+          "id": 4,
+          "transportType": "metro",
+          "routeNumber": "1",
+          "startTime": "5:36",
+          "endTime": "0:36",
+          "Station": "Нарвская"
+        },
+        {
+          "id": 5,
+          "transportType": "metro",
+          "routeNumber": "1",
+          "startTime": "5:36",
+          "endTime": "0:33",
+          "Station": "Балтийская"
+        },
+        {
+          "id": 6,
+          "transportType": "metro",
+          "routeNumber": "1",
+          "startTime": "5:40",
+          "endTime": "0:28",
+          "Station": "Технологический институт 1"
+        },
+        {
+          "id": 7,
+          "transportType": "metro",
+          "routeNumber": "1",
+          "startTime": "5:38",
+          "endTime": "0:28",
+          "Station": "Пушкинская"
+        },
+        {
+          "id": 8,
+          "transportType": "metro",
+          "routeNumber": "1",
+          "startTime": "5:35",
+          "endTime": "0:26",
+          "Station": "Владимирская"
+        },
+        {
+          "id": 9,
+          "transportType": "metro",
+          "routeNumber": "1",
+          "startTime": "5:40",
+          "endTime": "0:25",
+          "Station": "Площадь Восстания"
+        },
+        {
+          "id": 10,
+          "transportType": "metro",
+          "routeNumber": "1",
+          "startTime": "5:38",
+          "endTime": "0:25",
+          "Station": "Чернышевская"
+        },
+        {
+          "id": 11,
+          "transportType": "metro",
+          "routeNumber": "1",
+          "startTime": "5:35",
+          "endTime": "0:28",
+          "Station": "Площадь Ленина"
+        },
+        {
+          "id": 12,
+          "transportType": "metro",
+          "routeNumber": "1",
+          "startTime": "5:44",
+          "endTime": "0:30",
+          "Station": "Выборгская"
+        },
+        {
+          "id": 13,
+          "transportType": "metro",
+          "routeNumber": "1",
+          "startTime": "5:40",
+          "endTime": "0:33",
+          "Station": "Лесная"
+        },
+        {
+          "id": 14,
+          "transportType": "metro",
+          "routeNumber": "1",
+          "startTime": "5:38",
+          "endTime": "0:37",
+          "Station": "Площадь Мужества"
+        },
+        {
+          "id": 15,
+          "transportType": "metro",
+          "routeNumber": "1",
+          "startTime": "5:36",
+          "endTime": "0:39",
+          "Station": "Политехническая"
+        },
+        {
+          "id": 16,
+          "transportType": "metro",
+          "routeNumber": "1",
+          "startTime": "5:35",
+          "endTime": "0:40",
+          "Station": "Академическая"
+        },
+        {
+          "id": 17,
+          "transportType": "metro",
+          "routeNumber": "1",
+          "startTime": "5:30",
+          "endTime": "0:44",
+          "Station": "Гражданский проспект"
+        },
+        {
+          "id": 18,
+          "transportType": "metro",
+          "routeNumber": "1",
+          "startTime": "5:32",
+          "endTime": "0:00",
+          "Station": "Девяткино"
+        },
+        {
+          "id": 19,
+          "transportType": "metro",
+          "routeNumber": "2",
+          "startTime": "5:30",
+          "endTime": "0:00",
+          "Station": "Купчино"
+        },
+        {
+          "id": 20,
+          "transportType": "metro",
+          "routeNumber": "2",
+          "startTime": "5:31",
+          "endTime": "0:45",
+          "Station": "Звездная"
+        },
+        {
+          "id": 21,
+          "transportType": "metro",
+          "routeNumber": "2",
+          "startTime": "5:35",
+          "endTime": "0:41",
+          "Station": "Московская"
+        },
+        {
+          "id": 22,
+          "transportType": "metro",
+          "routeNumber": "2",
+          "startTime": "5:37",
+          "endTime": "0:37",
+          "Station": "Парк Победы"
+        },
+        {
+          "id": 23,
+          "transportType": "metro",
+          "routeNumber": "2",
+          "startTime": "5:40",
+          "endTime": "0:35",
+          "Station": "Электросила"
+        },
+        {
+          "id": 24,
+          "transportType": "metro",
+          "routeNumber": "2",
+          "startTime": "5:43",
+          "endTime": "0:33",
+          "Station": "Московские ворота"
+        },
+        {
+          "id": 25,
+          "transportType": "metro",
+          "routeNumber": "2",
+          "startTime": "5:45",
+          "endTime": "0:30",
+          "Station": "Фрунзенская"
+        },
+        {
+          "id": 26,
+          "transportType": "metro",
+          "routeNumber": "2",
+          "startTime": "5:40",
+          "endTime": "0:28",
+          "Station": "Технологический институт 2"
+        },
+        {
+          "id": 27,
+          "transportType": "metro",
+          "routeNumber": "2",
+          "startTime": "5:36",
+          "endTime": "0:26",
+          "Station": "Сенная площадь"
+        },
+        {
+          "id": 28,
+          "transportType": "metro",
+          "routeNumber": "2",
+          "startTime": "5:36",
+          "endTime": "0:28",
+          "Station": "Невский проспект"
+        },
+        {
+          "id": 29,
+          "transportType": "metro",
+          "routeNumber": "2",
+          "startTime": "5:37",
+          "endTime": "0:26",
+          "Station": "Горьковская"
+        },
+        {
+          "id": 30,
+          "transportType": "metro",
+          "routeNumber": "2",
+          "startTime": "5:35",
+          "endTime": "0:28",
+          "Station": "Петроградская"
+        },
+        {
+          "id": 31,
+          "transportType": "metro",
+          "routeNumber": "2",
+          "startTime": "5:45",
+          "endTime": "0:32",
+          "Station": "Черная речка"
+        },
+        {
+          "id": 32,
+          "transportType": "metro",
+          "routeNumber": "2",
+          "startTime": "5:45",
+          "endTime": "0:35",
+          "Station": "Пионерская"
+        },
+        {
+          "id": 33,
+          "transportType": "metro",
+          "routeNumber": "2",
+          "startTime": "5:43",
+          "endTime": "0:38",
+          "Station": "Удельная"
+        },
+        {
+          "id": 34,
+          "transportType": "metro",
+          "routeNumber": "2",
+          "startTime": "5:40",
+          "endTime": "0:41",
+          "Station": "Озерки"
+        },
+        {
+          "id": 35,
+          "transportType": "metro",
+          "routeNumber": "2",
+          "startTime": "5:35",
+          "endTime": "0:40",
+          "Station": "Проспект Просвещения"
+        },
+        {
+          "id": 36,
+          "transportType": "metro",
+          "routeNumber": "2",
+          "startTime": "5:45",
+          "endTime": "0:00",
+          "Station": "Парнас"
+        },
+        {
+          "id": 37,
+          "transportType": "metro",
+          "routeNumber": "3",
+          "startTime": "5:38",
+          "endTime": "0:00",
+          "Station": "Беговая"
+        },
+        {
+          "id": 38,
+          "transportType": "metro",
+          "routeNumber": "3",
+          "startTime": "0:00",
+          "endTime": "0:00",
+          "Station": "Зенит (Новокрестовская)"
+        },
+        {
+          "id": 39,
+          "transportType": "metro",
+          "routeNumber": "3",
+          "startTime": "5:32",
+          "endTime": "0:35",
+          "Station": "Приморская"
+        },
+        {
+          "id": 40,
+          "transportType": "metro",
+          "routeNumber": "3",
+          "startTime": "5:35",
+          "endTime": "0:34",
+          "Station": "Василеостровская"
+        },
+        {
+          "id": 41,
+          "transportType": "metro",
+          "routeNumber": "3",
+          "startTime": "5:38",
+          "endTime": "0:28",
+          "Station": "Гостиный двор"
+        },
+        {
+          "id": 42,
+          "transportType": "metro",
+          "routeNumber": "3",
+          "startTime": "5:40",
+          "endTime": "0:25",
+          "Station": "Маяковская"
+        },
+        {
+          "id": 43,
+          "transportType": "metro",
+          "routeNumber": "3",
+          "startTime": "5:32",
+          "endTime": "0:25",
+          "Station": "Площадь Александра Невского 1"
+        },
+        {
+          "id": 44,
+          "transportType": "metro",
+          "routeNumber": "3",
+          "startTime": "5:39",
+          "endTime": "0:31",
+          "Station": "Елизаровская"
+        },
+        {
+          "id": 45,
+          "transportType": "metro",
+          "routeNumber": "3",
+          "startTime": "5:35",
+          "endTime": "0:34",
+          "Station": "Ломоносовская"
+        },
+        {
+          "id": 46,
+          "transportType": "metro",
+          "routeNumber": "3",
+          "startTime": "5:36",
+          "endTime": "0:35",
+          "Station": "Пролетарская"
+        },
+        {
+          "id": 47,
+          "transportType": "metro",
+          "routeNumber": "3",
+          "startTime": "5:40",
+          "endTime": "0:40",
+          "Station": "Обухово"
+        },
+        {
+          "id": 48,
+          "transportType": "metro",
+          "routeNumber": "3",
+          "startTime": "5:38",
+          "endTime": "0:05",
+          "Station": "Рыбацкое"
+        },
+        {
+          "id": 49,
+          "transportType": "metro",
+          "routeNumber": "4",
+          "startTime": "5:35",
+          "endTime": "0:05",
+          "Station": "Улица Дыбенко"
+        },
+        {
+          "id": 50,
+          "transportType": "metro",
+          "routeNumber": "4",
+          "startTime": "5:37",
+          "endTime": "0:23",
+          "Station": "Проспект Большевиков"
+        },
+        {
+          "id": 51,
+          "transportType": "metro",
+          "routeNumber": "4",
+          "startTime": "5:37",
+          "endTime": "0:20",
+          "Station": "Ладожская"
+        },
+        {
+          "id": 52,
+          "transportType": "metro",
+          "routeNumber": "4",
+          "startTime": "5:39",
+          "endTime": "0:19",
+          "Station": "Новочеркасская"
+        },
+        {
+          "id": 53,
+          "transportType": "metro",
+          "routeNumber": "4",
+          "startTime": "7:00",
+          "endTime": "20:00",
+          "Station": "Площадь Александра Невского 2"
+        },
+        {
+          "id": 54,
+          "transportType": "metro",
+          "routeNumber": "4",
+          "startTime": "5:37",
+          "endTime": "0:17",
+          "Station": "Лиговский проспект"
+        },
+        {
+          "id": 55,
+          "transportType": "metro",
+          "routeNumber": "4",
+          "startTime": "7:00",
+          "endTime": "20:00",
+          "Station": "Достоевская"
+        },
+        {
+          "id": 56,
+          "transportType": "metro",
+          "routeNumber": "4",
+          "startTime": "5:33",
+          "endTime": "0:08",
+          "Station": "Спасская"
+        },
+        {
+          "id": 57,
+          "transportType": "metro",
+          "routeNumber": "5",
+          "startTime": "5:20",
+          "endTime": "0:00",
+          "Station": "Шушары"
+        },
+        {
+          "id": 58,
+          "transportType": "metro",
+          "routeNumber": "5",
+          "startTime": "5:23",
+          "endTime": "0:35",
+          "Station": "Дунайская"
+        },
+        {
+          "id": 59,
+          "transportType": "metro",
+          "routeNumber": "5",
+          "startTime": "5:26",
+          "endTime": "0:32",
+          "Station": "Проспект Славы"
+        },
+        {
+          "id": 60,
+          "transportType": "metro",
+          "routeNumber": "5",
+          "startTime": "5:29",
+          "endTime": "0:32",
+          "Station": "Международная"
+        },
+        {
+          "id": 61,
+          "transportType": "metro",
+          "routeNumber": "5",
+          "startTime": "5:32",
+          "endTime": "0:29",
+          "Station": "Бухарестская"
+        },
+        {
+          "id": 62,
+          "transportType": "metro",
+          "routeNumber": "5",
+          "startTime": "5:35",
+          "endTime": "0:27",
+          "Station": "Волковская"
+        },
+        {
+          "id": 63,
+          "transportType": "metro",
+          "routeNumber": "5",
+          "startTime": "5:35",
+          "endTime": "0:24",
+          "Station": "Обводный канал"
+        },
+        {
+          "id": 64,
+          "transportType": "metro",
+          "routeNumber": "5",
+          "startTime": "5:38",
+          "endTime": "0:23",
+          "Station": "Звенигородская"
+        },
+        {
+          "id": 65,
+          "transportType": "metro",
+          "routeNumber": "5",
+          "startTime": "5:36",
+          "endTime": "0:24",
+          "Station": "Садовая"
+        },
+        {
+          "id": 66,
+          "transportType": "metro",
+          "routeNumber": "5",
+          "startTime": "5:38",
+          "endTime": "0:24",
+          "Station": "Адмиралтейская"
+        },
+        {
+          "id": 67,
+          "transportType": "metro",
+          "routeNumber": "5",
+          "startTime": "5:36",
+          "endTime": "0:30",
+          "Station": "Спортивная"
+        },
+        {
+          "id": 68,
+          "transportType": "metro",
+          "routeNumber": "5",
+          "startTime": "5:35",
+          "endTime": "0:33",
+          "Station": "Чкаловская"
+        },
+        {
+          "id": 69,
+          "transportType": "metro",
+          "routeNumber": "5",
+          "startTime": "5:42",
+          "endTime": "0:36",
+          "Station": "Крестовский остров"
+        },
+        {
+          "id": 70,
+          "transportType": "metro",
+          "routeNumber": "5",
+          "startTime": "5:38",
+          "endTime": "0:39",
+          "Station": "Старая Деревня"
+        },
+        {
+          "id": 71,
+          "transportType": "metro",
+          "routeNumber": "5",
+          "startTime": "5:35",
+          "endTime": "0:03",
+          "Station": "Комендантский проспект"
+        }
+      ]
+    },
+    "MSC": {
+      "tram": [
+        {}
+      ],
+      "trolley": [
+        {}
+      ],
+      "bus": [
+        {}
+      ],
+      "metro": [
+        {}
+      ]
+    }
+  }
+}
