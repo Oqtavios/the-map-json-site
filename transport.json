@@ -1,7 +1,7 @@
 {
   "transport": {
     "SPB": {
-      "friendlyName": 'Санкт-Петербург',
+      "friendlyName": "Санкт-Петербург",
       "tram": [
         {
           "id": 0,
@@ -1354,7 +1354,7 @@
       ]
     },
     "MSC": {
-      "friendlyName": 'Москва',
+      "friendlyName": "Москва",
       "tram": [
         {}
       ],
