@@ -1,11 +1,9 @@
 {
   "transport": {
     "SPB": {
-      "friendlyName": "Санкт-Петербург",
       "tram": [
         {
           "id": 0,
-          "transportType": "tram",
           "routeNumber": "A",
           "startTime": "6:11",
           "endTime": "21:24",
@@ -14,7 +12,6 @@
         },
         {
           "id": 1,
-          "transportType": "tram",
           "routeNumber": "3",
           "startTime": "6:51",
           "endTime": "23:23",
@@ -23,7 +20,6 @@
         },
         {
           "id": 2,
-          "transportType": "tram",
           "routeNumber": "6",
           "startTime": "5:31",
           "endTime": "23:38",
@@ -32,7 +28,6 @@
         },
         {
           "id": 3,
-          "transportType": "tram",
           "routeNumber": "7",
           "startTime": "5:46",
           "endTime": "23:16",
@@ -41,7 +36,6 @@
         },
         {
           "id": 4,
-          "transportType": "tram",
           "routeNumber": "9",
           "startTime": "5:33",
           "endTime": "0:12",
@@ -50,7 +44,6 @@
         },
         {
           "id": 5,
-          "transportType": "tram",
           "routeNumber": "8",
           "startTime": "5:46",
           "endTime": "23:16",
@@ -59,7 +52,6 @@
         },
         {
           "id": 6,
-          "transportType": "tram",
           "routeNumber": "10",
           "startTime": "6:02",
           "endTime": "23:59",
@@ -68,7 +60,6 @@
         },
         {
           "id": 7,
-          "transportType": "tram",
           "routeNumber": "16",
           "startTime": "5:28",
           "endTime": "23:26",
@@ -77,7 +68,6 @@
         },
         {
           "id": 8,
-          "transportType": "tram",
           "routeNumber": "18",
           "startTime": "5:22",
           "endTime": "0:34",
@@ -86,7 +76,6 @@
         },
         {
           "id": 9,
-          "transportType": "tram",
           "routeNumber": "19",
           "startTime": "6:17",
           "endTime": "0:25",
@@ -95,7 +84,6 @@
         },
         {
           "id": 10,
-          "transportType": "tram",
           "routeNumber": "20",
           "startTime": "5:37",
           "endTime": "23:27",
@@ -104,7 +92,6 @@
         },
         {
           "id": 11,
-          "transportType": "tram",
           "routeNumber": "21",
           "startTime": "5:41",
           "endTime": "23:30",
@@ -113,7 +100,6 @@
         },
         {
           "id": 12,
-          "transportType": "tram",
           "routeNumber": "23",
           "startTime": "5:53",
           "endTime": "23:13",
@@ -122,7 +108,6 @@
         },
         {
           "id": 13,
-          "transportType": "tram",
           "routeNumber": "24",
           "startTime": "5:03",
           "endTime": "23:07",
@@ -131,7 +116,6 @@
         },
         {
           "id": 14,
-          "transportType": "tram",
           "routeNumber": "25",
           "startTime": "5:33",
           "endTime": "23:30",
@@ -140,7 +124,6 @@
         },
         {
           "id": 15,
-          "transportType": "tram",
           "routeNumber": "27",
           "startTime": "5:17",
           "endTime": "23:31",
@@ -149,7 +132,6 @@
         },
         {
           "id": 16,
-          "transportType": "tram",
           "routeNumber": "29",
           "startTime": "6:08",
           "endTime": "23:55",
@@ -158,7 +140,6 @@
         },
         {
           "id": 17,
-          "transportType": "tram",
           "routeNumber": "36",
           "startTime": "5:19",
           "endTime": "23:31",
@@ -167,7 +148,6 @@
         },
         {
           "id": 18,
-          "transportType": "tram",
           "routeNumber": "38",
           "startTime": "4:59",
           "endTime": "0:44",
@@ -176,7 +156,6 @@
         },
         {
           "id": 19,
-          "transportType": "tram",
           "routeNumber": "39",
           "startTime": "5:45",
           "endTime": "23:28",
@@ -185,7 +164,6 @@
         },
         {
           "id": 20,
-          "transportType": "tram",
           "routeNumber": "40",
           "startTime": "5:34",
           "endTime": "22:51",
@@ -194,7 +172,6 @@
         },
         {
           "id": 21,
-          "transportType": "tram",
           "routeNumber": "41",
           "startTime": "5:55",
           "endTime": "23:57",
@@ -203,7 +180,6 @@
         },
         {
           "id": 22,
-          "transportType": "tram",
           "routeNumber": "43",
           "startTime": "5:35",
           "endTime": "0:35",
@@ -212,7 +188,6 @@
         },
         {
           "id": 23,
-          "transportType": "tram",
           "routeNumber": "45",
           "startTime": "5:32",
           "endTime": "23:49",
@@ -221,7 +196,6 @@
         },
         {
           "id": 24,
-          "transportType": "tram",
           "routeNumber": "47",
           "startTime": "5:34",
           "endTime": "0:07",
@@ -230,7 +204,6 @@
         },
         {
           "id": 25,
-          "transportType": "tram",
           "routeNumber": "48",
           "startTime": "5:35",
           "endTime": "23:53",
@@ -239,7 +212,6 @@
         },
         {
           "id": 26,
-          "transportType": "tram",
           "routeNumber": "49",
           "startTime": "5:27",
           "endTime": "23:51",
@@ -248,7 +220,6 @@
         },
         {
           "id": 27,
-          "transportType": "tram",
           "routeNumber": "51",
           "startTime": "5:17",
           "endTime": "0:00",
@@ -257,7 +228,6 @@
         },
         {
           "id": 28,
-          "transportType": "tram",
           "routeNumber": "52",
           "startTime": "5:24",
           "endTime": "23:48",
@@ -266,7 +236,6 @@
         },
         {
           "id": 29,
-          "transportType": "tram",
           "routeNumber": "55",
           "startTime": "5:19",
           "endTime": "23:33",
@@ -275,7 +244,6 @@
         },
         {
           "id": 30,
-          "transportType": "tram",
           "routeNumber": "57",
           "startTime": "8:59",
           "endTime": "17:31",
@@ -284,7 +252,6 @@
         },
         {
           "id": 31,
-          "transportType": "tram",
           "routeNumber": "58",
           "startTime": "5:58",
           "endTime": "22:44",
@@ -293,7 +260,6 @@
         },
         {
           "id": 32,
-          "transportType": "tram",
           "routeNumber": "59",
           "startTime": "5:05",
           "endTime": "23:20",
@@ -302,7 +268,6 @@
         },
         {
           "id": 33,
-          "transportType": "tram",
           "routeNumber": "60",
           "startTime": "5:08",
           "endTime": "23:38",
@@ -311,7 +276,6 @@
         },
         {
           "id": 34,
-          "transportType": "tram",
           "routeNumber": "61",
           "startTime": "5:05",
           "endTime": "23:20",
@@ -320,7 +284,6 @@
         },
         {
           "id": 35,
-          "transportType": "tram",
           "routeNumber": "62",
           "startTime": "5:25",
           "endTime": "0:11",
@@ -329,7 +292,6 @@
         },
         {
           "id": 36,
-          "transportType": "tram",
           "routeNumber": "63",
           "startTime": "5:05",
           "endTime": "23:20",
@@ -338,7 +300,6 @@
         },
         {
           "id": 37,
-          "transportType": "tram",
           "routeNumber": "64",
           "startTime": "5:05",
           "endTime": "23:20",
@@ -347,7 +308,6 @@
         },
         {
           "id": 38,
-          "transportType": "tram",
           "routeNumber": "65",
           "startTime": "6:03",
           "endTime": "23:36",
@@ -356,7 +316,6 @@
         },
         {
           "id": 39,
-          "transportType": "tram",
           "routeNumber": "100",
           "startTime": "5:28",
           "endTime": "0:13",
@@ -367,7 +326,6 @@
       "trolley": [
         {
           "id": 0,
-          "transportType": "trolley",
           "routeNumber": "1",
           "startTime": "5:21",
           "endTime": "23:32",
@@ -376,7 +334,6 @@
         },
         {
           "id": 1,
-          "transportType": "trolley",
           "routeNumber": "2",
           "startTime": "5:29",
           "endTime": "0:18",
@@ -385,7 +342,6 @@
         },
         {
           "id": 2,
-          "transportType": "trolley",
           "routeNumber": "3",
           "startTime": "5:38",
           "endTime": "23:39",
@@ -394,7 +350,6 @@
         },
         {
           "id": 3,
-          "transportType": "trolley",
           "routeNumber": "4",
           "startTime": "5:50",
           "endTime": "23:42",
@@ -403,7 +358,6 @@
         },
         {
           "id": 4,
-          "transportType": "trolley",
           "routeNumber": "5",
           "startTime": "5:35",
           "endTime": "0:40",
@@ -412,7 +366,6 @@
         },
         {
           "id": 5,
-          "transportType": "trolley",
           "routeNumber": "6",
           "startTime": "5:20",
           "endTime": "23:50",
@@ -421,7 +374,6 @@
         },
         {
           "id": 6,
-          "transportType": "trolley",
           "routeNumber": "7",
           "startTime": "5:25",
           "endTime": "23:30",
@@ -430,7 +382,6 @@
         },
         {
           "id": 7,
-          "transportType": "trolley",
           "routeNumber": "8",
           "startTime": "5:37",
           "endTime": "23:56",
@@ -439,7 +390,6 @@
         },
         {
           "id": 8,
-          "transportType": "trolley",
           "routeNumber": "9",
           "startTime": "6:16",
           "endTime": "22:38",
@@ -448,7 +398,6 @@
         },
         {
           "id": 9,
-          "transportType": "trolley",
           "routeNumber": "10",
           "startTime": "5:51",
           "endTime": "23:36",
@@ -457,7 +406,6 @@
         },
         {
           "id": 10,
-          "transportType": "trolley",
           "routeNumber": "11",
           "startTime": "6:03",
           "endTime": "0:03",
@@ -466,7 +414,6 @@
         },
         {
           "id": 11,
-          "transportType": "trolley",
           "routeNumber": "13",
           "startTime": "5:40",
           "endTime": "0:02",
@@ -475,7 +422,6 @@
         },
         {
           "id": 12,
-          "transportType": "trolley",
           "routeNumber": "14",
           "startTime": "6:07",
           "endTime": "23:17",
@@ -484,7 +430,6 @@
         },
         {
           "id": 13,
-          "transportType": "trolley",
           "routeNumber": "15",
           "startTime": "5:30",
           "endTime": "23:38",
@@ -493,7 +438,6 @@
         },
         {
           "id": 14,
-          "transportType": "trolley",
           "routeNumber": "16",
           "startTime": "5:37",
           "endTime": "0:06",
@@ -502,7 +446,6 @@
         },
         {
           "id": 15,
-          "transportType": "trolley",
           "routeNumber": "17",
           "startTime": "6:08",
           "endTime": "23:30",
@@ -511,7 +454,6 @@
         },
         {
           "id": 16,
-          "transportType": "trolley",
           "routeNumber": "18",
           "startTime": "5:30",
           "endTime": "23:55",
@@ -520,7 +462,6 @@
         },
         {
           "id": 17,
-          "transportType": "trolley",
           "routeNumber": "20",
           "startTime": "5:15",
           "endTime": "23:54",
@@ -529,7 +470,6 @@
         },
         {
           "id": 18,
-          "transportType": "trolley",
           "routeNumber": "21",
           "startTime": "5:59",
           "endTime": "23:23",
@@ -538,7 +478,6 @@
         },
         {
           "id": 19,
-          "transportType": "trolley",
           "routeNumber": "22",
           "startTime": "5:20",
           "endTime": "23:44",
@@ -547,7 +486,6 @@
         },
         {
           "id": 20,
-          "transportType": "trolley",
           "routeNumber": "23",
           "startTime": "5:30",
           "endTime": "0:07",
@@ -556,7 +494,6 @@
         },
         {
           "id": 21,
-          "transportType": "trolley",
           "routeNumber": "24",
           "startTime": "5:42",
           "endTime": "22:49",
@@ -565,7 +502,6 @@
         },
         {
           "id": 22,
-          "transportType": "trolley",
           "routeNumber": "25",
           "startTime": "6:03",
           "endTime": "0:56",
@@ -574,7 +510,6 @@
         },
         {
           "id": 23,
-          "transportType": "trolley",
           "routeNumber": "26",
           "startTime": "5:53",
           "endTime": "23:22",
@@ -583,7 +518,6 @@
         },
         {
           "id": 24,
-          "transportType": "trolley",
           "routeNumber": "27",
           "startTime": "6:28",
           "endTime": "23:38",
@@ -592,7 +526,6 @@
         },
         {
           "id": 25,
-          "transportType": "trolley",
           "routeNumber": "28",
           "startTime": "6:20",
           "endTime": "22:02",
@@ -601,7 +534,6 @@
         },
         {
           "id": 26,
-          "transportType": "trolley",
           "routeNumber": "29",
           "startTime": "5:26",
           "endTime": "0:06",
@@ -610,7 +542,6 @@
         },
         {
           "id": 27,
-          "transportType": "trolley",
           "routeNumber": "31",
           "startTime": "5:15",
           "endTime": "23:51",
@@ -619,7 +550,6 @@
         },
         {
           "id": 28,
-          "transportType": "trolley",
           "routeNumber": "32",
           "startTime": "4:56",
           "endTime": "0:18",
@@ -628,7 +558,6 @@
         },
         {
           "id": 29,
-          "transportType": "trolley",
           "routeNumber": "33",
           "startTime": "6:05",
           "endTime": "22:04",
@@ -637,7 +566,6 @@
         },
         {
           "id": 30,
-          "transportType": "trolley",
           "routeNumber": "34",
           "startTime": "5:45",
           "endTime": "22:14",
@@ -646,7 +574,6 @@
         },
         {
           "id": 31,
-          "transportType": "trolley",
           "routeNumber": "35",
           "startTime": "6:09",
           "endTime": "0:07",
@@ -655,7 +582,6 @@
         },
         {
           "id": 32,
-          "transportType": "trolley",
           "routeNumber": "36",
           "startTime": "7:19",
           "endTime": "17:35",
@@ -664,7 +590,6 @@
         },
         {
           "id": 33,
-          "transportType": "trolley",
           "routeNumber": "37",
           "startTime": "5:31",
           "endTime": "0:58",
@@ -673,7 +598,6 @@
         },
         {
           "id": 34,
-          "transportType": "trolley",
           "routeNumber": "38",
           "startTime": "5:17",
           "endTime": "23:46",
@@ -682,7 +606,6 @@
         },
         {
           "id": 35,
-          "transportType": "trolley",
           "routeNumber": "39",
           "startTime": "5:31",
           "endTime": "0:14",
@@ -691,7 +614,6 @@
         },
         {
           "id": 36,
-          "transportType": "trolley",
           "routeNumber": "40",
           "startTime": "5:45",
           "endTime": "0:09",
@@ -700,7 +622,6 @@
         },
         {
           "id": 37,
-          "transportType": "trolley",
           "routeNumber": "41",
           "startTime": "6:15",
           "endTime": "23:58",
@@ -709,7 +630,6 @@
         },
         {
           "id": 38,
-          "transportType": "trolley",
           "routeNumber": "43",
           "startTime": "5:33",
           "endTime": "22:42",
@@ -718,7 +638,6 @@
         },
         {
           "id": 39,
-          "transportType": "trolley",
           "routeNumber": "44",
           "startTime": "5:29",
           "endTime": "0:00",
@@ -727,7 +646,6 @@
         },
         {
           "id": 40,
-          "transportType": "trolley",
           "routeNumber": "45",
           "startTime": "5:34",
           "endTime": "0:17",
@@ -736,7 +654,6 @@
         },
         {
           "id": 41,
-          "transportType": "trolley",
           "routeNumber": "46",
           "startTime": "4:30",
           "endTime": "23:51",
@@ -745,7 +662,6 @@
         },
         {
           "id": 42,
-          "transportType": "trolley",
           "routeNumber": "47",
           "startTime": "5:56",
           "endTime": "0:26",
@@ -754,7 +670,6 @@
         },
         {
           "id": 43,
-          "transportType": "trolley",
           "routeNumber": "48",
           "startTime": "6:13",
           "endTime": "23:42",
@@ -763,7 +678,6 @@
         },
         {
           "id": 44,
-          "transportType": "trolley",
           "routeNumber": "50",
           "startTime": "6:00",
           "endTime": "0:00",
@@ -771,12 +685,10 @@
           "endStation": "Шаврова ул."
         }
       ],
-      "bus": [
-      ],
+      "bus": [],
       "metro": [
         {
           "id": 0,
-          "transportType": "metro",
           "routeNumber": "1",
           "startTime": "5:38",
           "endTime": "0:00",
@@ -784,7 +696,6 @@
         },
         {
           "id": 1,
-          "transportType": "metro",
           "routeNumber": "1",
           "startTime": "5:40",
           "endTime": "0:45",
@@ -792,7 +703,6 @@
         },
         {
           "id": 2,
-          "transportType": "metro",
           "routeNumber": "1",
           "startTime": "5:30",
           "endTime": "0:42",
@@ -800,7 +710,6 @@
         },
         {
           "id": 3,
-          "transportType": "metro",
           "routeNumber": "1",
           "startTime": "5:30",
           "endTime": "0:40",
@@ -808,7 +717,6 @@
         },
         {
           "id": 4,
-          "transportType": "metro",
           "routeNumber": "1",
           "startTime": "5:36",
           "endTime": "0:36",
@@ -816,7 +724,6 @@
         },
         {
           "id": 5,
-          "transportType": "metro",
           "routeNumber": "1",
           "startTime": "5:36",
           "endTime": "0:33",
@@ -824,7 +731,6 @@
         },
         {
           "id": 6,
-          "transportType": "metro",
           "routeNumber": "1",
           "startTime": "5:40",
           "endTime": "0:28",
@@ -832,7 +738,6 @@
         },
         {
           "id": 7,
-          "transportType": "metro",
           "routeNumber": "1",
           "startTime": "5:38",
           "endTime": "0:28",
@@ -840,7 +745,6 @@
         },
         {
           "id": 8,
-          "transportType": "metro",
           "routeNumber": "1",
           "startTime": "5:35",
           "endTime": "0:26",
@@ -848,7 +752,6 @@
         },
         {
           "id": 9,
-          "transportType": "metro",
           "routeNumber": "1",
           "startTime": "5:40",
           "endTime": "0:25",
@@ -856,7 +759,6 @@
         },
         {
           "id": 10,
-          "transportType": "metro",
           "routeNumber": "1",
           "startTime": "5:38",
           "endTime": "0:25",
@@ -864,7 +766,6 @@
         },
         {
           "id": 11,
-          "transportType": "metro",
           "routeNumber": "1",
           "startTime": "5:35",
           "endTime": "0:28",
@@ -872,7 +773,6 @@
         },
         {
           "id": 12,
-          "transportType": "metro",
           "routeNumber": "1",
           "startTime": "5:44",
           "endTime": "0:30",
@@ -880,7 +780,6 @@
         },
         {
           "id": 13,
-          "transportType": "metro",
           "routeNumber": "1",
           "startTime": "5:40",
           "endTime": "0:33",
@@ -888,7 +787,6 @@
         },
         {
           "id": 14,
-          "transportType": "metro",
           "routeNumber": "1",
           "startTime": "5:38",
           "endTime": "0:37",
@@ -896,7 +794,6 @@
         },
         {
           "id": 15,
-          "transportType": "metro",
           "routeNumber": "1",
           "startTime": "5:36",
           "endTime": "0:39",
@@ -904,7 +801,6 @@
         },
         {
           "id": 16,
-          "transportType": "metro",
           "routeNumber": "1",
           "startTime": "5:35",
           "endTime": "0:40",
@@ -912,7 +808,6 @@
         },
         {
           "id": 17,
-          "transportType": "metro",
           "routeNumber": "1",
           "startTime": "5:30",
           "endTime": "0:44",
@@ -920,7 +815,6 @@
         },
         {
           "id": 18,
-          "transportType": "metro",
           "routeNumber": "1",
           "startTime": "5:32",
           "endTime": "0:00",
@@ -928,7 +822,6 @@
         },
         {
           "id": 19,
-          "transportType": "metro",
           "routeNumber": "2",
           "startTime": "5:30",
           "endTime": "0:00",
@@ -936,7 +829,6 @@
         },
         {
           "id": 20,
-          "transportType": "metro",
           "routeNumber": "2",
           "startTime": "5:31",
           "endTime": "0:45",
@@ -944,7 +836,6 @@
         },
         {
           "id": 21,
-          "transportType": "metro",
           "routeNumber": "2",
           "startTime": "5:35",
           "endTime": "0:41",
@@ -952,7 +843,6 @@
         },
         {
           "id": 22,
-          "transportType": "metro",
           "routeNumber": "2",
           "startTime": "5:37",
           "endTime": "0:37",
@@ -960,7 +850,6 @@
         },
         {
           "id": 23,
-          "transportType": "metro",
           "routeNumber": "2",
           "startTime": "5:40",
           "endTime": "0:35",
@@ -968,7 +857,6 @@
         },
         {
           "id": 24,
-          "transportType": "metro",
           "routeNumber": "2",
           "startTime": "5:43",
           "endTime": "0:33",
@@ -976,7 +864,6 @@
         },
         {
           "id": 25,
-          "transportType": "metro",
           "routeNumber": "2",
           "startTime": "5:45",
           "endTime": "0:30",
@@ -984,7 +871,6 @@
         },
         {
           "id": 26,
-          "transportType": "metro",
           "routeNumber": "2",
           "startTime": "5:40",
           "endTime": "0:28",
@@ -992,7 +878,6 @@
         },
         {
           "id": 27,
-          "transportType": "metro",
           "routeNumber": "2",
           "startTime": "5:36",
           "endTime": "0:26",
@@ -1000,7 +885,6 @@
         },
         {
           "id": 28,
-          "transportType": "metro",
           "routeNumber": "2",
           "startTime": "5:36",
           "endTime": "0:28",
@@ -1008,7 +892,6 @@
         },
         {
           "id": 29,
-          "transportType": "metro",
           "routeNumber": "2",
           "startTime": "5:37",
           "endTime": "0:26",
@@ -1016,7 +899,6 @@
         },
         {
           "id": 30,
-          "transportType": "metro",
           "routeNumber": "2",
           "startTime": "5:35",
           "endTime": "0:28",
@@ -1024,7 +906,6 @@
         },
         {
           "id": 31,
-          "transportType": "metro",
           "routeNumber": "2",
           "startTime": "5:45",
           "endTime": "0:32",
@@ -1032,7 +913,6 @@
         },
         {
           "id": 32,
-          "transportType": "metro",
           "routeNumber": "2",
           "startTime": "5:45",
           "endTime": "0:35",
@@ -1040,7 +920,6 @@
         },
         {
           "id": 33,
-          "transportType": "metro",
           "routeNumber": "2",
           "startTime": "5:43",
           "endTime": "0:38",
@@ -1048,7 +927,6 @@
         },
         {
           "id": 34,
-          "transportType": "metro",
           "routeNumber": "2",
           "startTime": "5:40",
           "endTime": "0:41",
@@ -1056,7 +934,6 @@
         },
         {
           "id": 35,
-          "transportType": "metro",
           "routeNumber": "2",
           "startTime": "5:35",
           "endTime": "0:40",
@@ -1064,7 +941,6 @@
         },
         {
           "id": 36,
-          "transportType": "metro",
           "routeNumber": "2",
           "startTime": "5:45",
           "endTime": "0:00",
@@ -1072,7 +948,6 @@
         },
         {
           "id": 37,
-          "transportType": "metro",
           "routeNumber": "3",
           "startTime": "5:38",
           "endTime": "0:00",
@@ -1080,7 +955,6 @@
         },
         {
           "id": 38,
-          "transportType": "metro",
           "routeNumber": "3",
           "startTime": "0:00",
           "endTime": "0:00",
@@ -1088,7 +962,6 @@
         },
         {
           "id": 39,
-          "transportType": "metro",
           "routeNumber": "3",
           "startTime": "5:32",
           "endTime": "0:35",
@@ -1096,7 +969,6 @@
         },
         {
           "id": 40,
-          "transportType": "metro",
           "routeNumber": "3",
           "startTime": "5:35",
           "endTime": "0:34",
@@ -1104,7 +976,6 @@
         },
         {
           "id": 41,
-          "transportType": "metro",
           "routeNumber": "3",
           "startTime": "5:38",
           "endTime": "0:28",
@@ -1112,7 +983,6 @@
         },
         {
           "id": 42,
-          "transportType": "metro",
           "routeNumber": "3",
           "startTime": "5:40",
           "endTime": "0:25",
@@ -1120,7 +990,6 @@
         },
         {
           "id": 43,
-          "transportType": "metro",
           "routeNumber": "3",
           "startTime": "5:32",
           "endTime": "0:25",
@@ -1128,7 +997,6 @@
         },
         {
           "id": 44,
-          "transportType": "metro",
           "routeNumber": "3",
           "startTime": "5:39",
           "endTime": "0:31",
@@ -1136,7 +1004,6 @@
         },
         {
           "id": 45,
-          "transportType": "metro",
           "routeNumber": "3",
           "startTime": "5:35",
           "endTime": "0:34",
@@ -1144,7 +1011,6 @@
         },
         {
           "id": 46,
-          "transportType": "metro",
           "routeNumber": "3",
           "startTime": "5:36",
           "endTime": "0:35",
@@ -1152,7 +1018,6 @@
         },
         {
           "id": 47,
-          "transportType": "metro",
           "routeNumber": "3",
           "startTime": "5:40",
           "endTime": "0:40",
@@ -1160,7 +1025,6 @@
         },
         {
           "id": 48,
-          "transportType": "metro",
           "routeNumber": "3",
           "startTime": "5:38",
           "endTime": "0:05",
@@ -1168,7 +1032,6 @@
         },
         {
           "id": 49,
-          "transportType": "metro",
           "routeNumber": "4",
           "startTime": "5:35",
           "endTime": "0:05",
@@ -1176,7 +1039,6 @@
         },
         {
           "id": 50,
-          "transportType": "metro",
           "routeNumber": "4",
           "startTime": "5:37",
           "endTime": "0:23",
@@ -1184,7 +1046,6 @@
         },
         {
           "id": 51,
-          "transportType": "metro",
           "routeNumber": "4",
           "startTime": "5:37",
           "endTime": "0:20",
@@ -1192,7 +1053,6 @@
         },
         {
           "id": 52,
-          "transportType": "metro",
           "routeNumber": "4",
           "startTime": "5:39",
           "endTime": "0:19",
@@ -1200,7 +1060,6 @@
         },
         {
           "id": 53,
-          "transportType": "metro",
           "routeNumber": "4",
           "startTime": "7:00",
           "endTime": "20:00",
@@ -1208,7 +1067,6 @@
         },
         {
           "id": 54,
-          "transportType": "metro",
           "routeNumber": "4",
           "startTime": "5:37",
           "endTime": "0:17",
@@ -1216,7 +1074,6 @@
         },
         {
           "id": 55,
-          "transportType": "metro",
           "routeNumber": "4",
           "startTime": "7:00",
           "endTime": "20:00",
@@ -1224,7 +1081,6 @@
         },
         {
           "id": 56,
-          "transportType": "metro",
           "routeNumber": "4",
           "startTime": "5:33",
           "endTime": "0:08",
@@ -1232,7 +1088,6 @@
         },
         {
           "id": 57,
-          "transportType": "metro",
           "routeNumber": "5",
           "startTime": "5:20",
           "endTime": "0:00",
@@ -1240,7 +1095,6 @@
         },
         {
           "id": 58,
-          "transportType": "metro",
           "routeNumber": "5",
           "startTime": "5:23",
           "endTime": "0:35",
@@ -1248,7 +1102,6 @@
         },
         {
           "id": 59,
-          "transportType": "metro",
           "routeNumber": "5",
           "startTime": "5:26",
           "endTime": "0:32",
@@ -1256,7 +1109,6 @@
         },
         {
           "id": 60,
-          "transportType": "metro",
           "routeNumber": "5",
           "startTime": "5:29",
           "endTime": "0:32",
@@ -1264,7 +1116,6 @@
         },
         {
           "id": 61,
-          "transportType": "metro",
           "routeNumber": "5",
           "startTime": "5:32",
           "endTime": "0:29",
@@ -1272,7 +1123,6 @@
         },
         {
           "id": 62,
-          "transportType": "metro",
           "routeNumber": "5",
           "startTime": "5:35",
           "endTime": "0:27",
@@ -1280,7 +1130,6 @@
         },
         {
           "id": 63,
-          "transportType": "metro",
           "routeNumber": "5",
           "startTime": "5:35",
           "endTime": "0:24",
@@ -1288,7 +1137,6 @@
         },
         {
           "id": 64,
-          "transportType": "metro",
           "routeNumber": "5",
           "startTime": "5:38",
           "endTime": "0:23",
@@ -1296,7 +1144,6 @@
         },
         {
           "id": 65,
-          "transportType": "metro",
           "routeNumber": "5",
           "startTime": "5:36",
           "endTime": "0:24",
@@ -1304,7 +1151,6 @@
         },
         {
           "id": 66,
-          "transportType": "metro",
           "routeNumber": "5",
           "startTime": "5:38",
           "endTime": "0:24",
@@ -1312,7 +1158,6 @@
         },
         {
           "id": 67,
-          "transportType": "metro",
           "routeNumber": "5",
           "startTime": "5:36",
           "endTime": "0:30",
@@ -1320,7 +1165,6 @@
         },
         {
           "id": 68,
-          "transportType": "metro",
           "routeNumber": "5",
           "startTime": "5:35",
           "endTime": "0:33",
@@ -1328,7 +1172,6 @@
         },
         {
           "id": 69,
-          "transportType": "metro",
           "routeNumber": "5",
           "startTime": "5:42",
           "endTime": "0:36",
@@ -1336,7 +1179,6 @@
         },
         {
           "id": 70,
-          "transportType": "metro",
           "routeNumber": "5",
           "startTime": "5:38",
           "endTime": "0:39",
@@ -1344,24 +1186,22 @@
         },
         {
           "id": 71,
-          "transportType": "metro",
           "routeNumber": "5",
           "startTime": "5:35",
           "endTime": "0:03",
           "Station": "Комендантский проспект"
         }
-      ]
+      ],
+      "friendlyNameRu": "Санкт-Петербург",
+      "friendlyNameEn": "Saint-Petersburg"
     },
-    "MSC": {
-      "friendlyName": "Москва",
-      "tram": [
-      ],
-      "trolley": [
-      ],
-      "bus": [
-      ],
-      "metro": [
-      ]
+    "MSK": {
+      "friendlyNameRu": "Москва",
+      "friendlyNameEn": "Moscow",
+      "tram": [],
+      "trolley": [],
+      "bus": [],
+      "metro": []
     }
   }
 }
